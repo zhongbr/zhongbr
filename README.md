@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📚 Blog: [Zhongbr's Blog](https://zhongbr.cn)
+<div align="left">
+  📚 Blog: <a href="https://zhongbr.cn">Zhongbr's Blog</a>
+</div>
 
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=zhongbr&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
